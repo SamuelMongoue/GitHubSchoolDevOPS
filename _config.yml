@@ -9,14 +9,14 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "true"
-resume_name:                    "Skatetocat"
-resume_title:                   "Professional Skate"
-resume_contact_email:           "services@github.com"
-resume_contact_telephone:       "7654-321"
-resume_contact_address:         "San Francisco, CA"
-resume_header_contact_info: "San Francisco, CA | 7654-321 | services@github.com"
-resume_header_intro: "<p>Professional skater who works on mobile applications when not dropping in</p>"
+resume_avatar:                  "false"
+resume_name:                    "Samuel B. MONGOUE"
+resume_title:                   "Inspecteur de la sécurité nucléaire"
+resume_contact_email:           "baudrysamuel.mongoueyamkam@edu.ece.fr"
+resume_contact_telephone:       "+33 07 59 51 51 13"
+resume_contact_address:         "9 Avenue Massenet, Ozoir la Ferrière"
+resume_header_contact_info: "9 Avenue Massenet, Ozoir la Ferrière | +33 07 59 51 51 13 | baudrysamuel.mongoueyamkam@edu.ece.fr"
+resume_header_intro: "<p>Ceci est le résumé exécutif. Vous devez écrire quelques phrases brèves, concises et significatives sur vous-même dans un contexte professionnel, ainsi que vos objectifs de carrière immédiats. Adaptez la longueur à vos besoins, mais restez simple et direct.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
